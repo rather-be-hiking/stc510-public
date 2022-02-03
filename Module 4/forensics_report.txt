@@ -1,0 +1,42 @@
+,URL,CLUES
+0,https://phoenix.craigslist.org/nph/gms/d/phoenix-glass-tv-table35-lugchevy/7434046266.html,tv table
+1,https://phoenix.craigslist.org/nph/gms/d/phoenix-tv-stand-35-base-used-for-heavy/7439457025.html,tv
+2,https://phoenix.craigslist.org/nph/gms/d/phoenix-tv-table-cheap-just-35-stand/7439591056.html,tv table
+3,https://phoenix.craigslist.org/evl/gms/d/mesa-storage-unit-auction-c079/7439905135.html,table
+4,https://phoenix.craigslist.org/evl/gms/d/mesa-storage-unit-auction-c060/7439907175.html,mattress tv table
+5,https://phoenix.craigslist.org/nph/gms/d/scottsdale-estate-garage-sale/7440477793.html,table
+6,https://phoenix.craigslist.org/cph/gms/d/phoenix-fun-february-sale/7441019777.html,table
+7,https://phoenix.craigslist.org/evl/gms/d/scottsdale-office-closing-ikea-furniture/7440490061.html,cabinet tv table
+8,https://phoenix.craigslist.org/evl/gms/d/sun-city-west-estate-sale-sun-city/7440209000.html,table
+9,https://phoenix.craigslist.org/wvl/gms/d/palo-verde-huge-yard-sale/7439852445.html,table
+10,https://phoenix.craigslist.org/wvl/gms/d/glendale-huge-estate-sale/7440510112.html,table
+11,https://phoenix.craigslist.org/wvl/gms/d/peoria-multi-family-garage-sale-feb-pm/7440618729.html,tv
+12,https://phoenix.craigslist.org/evl/gms/d/mesa-estate-sale-native-american/7441080001.html,table
+13,https://phoenix.craigslist.org/wvl/gms/d/peoria-estate-sale-garage-sale/7440998617.html,cabinet table
+14,https://phoenix.craigslist.org/nph/gms/d/phoenix-huge-multi-family-yard-sale/7438681202.html,tv
+15,https://phoenix.craigslist.org/nph/gms/d/phoenix-large-yard-sale-4-thru-6-tools/7440909512.html,tv table
+16,https://phoenix.craigslist.org/evl/gms/d/scottsdale-we-sold-our-kids-and-now/7441019547.html,table
+17,https://phoenix.craigslist.org/wvl/gms/d/buckeye-moving-sale-feb-4th-5th/7439223175.html,table
+18,https://phoenix.craigslist.org/evl/gms/d/mesa-estate-sale-everything-must-go/7439610563.html,cabinet
+19,https://phoenix.craigslist.org/nph/gms/d/phoenix-multi-family-yard-sale-estate/7433280744.html,mattress cabinet table
+20,https://phoenix.craigslist.org/evl/gms/d/gilbert-yard-sale-chandler-se-corner/7440036169.html,mattress
+21,https://phoenix.craigslist.org/nph/gms/d/phoenix-massive-garage-sale/7441072021.html,tv table
+22,https://phoenix.craigslist.org/wvl/gms/d/youngtown-small-yard-sale-youngtown/7438509899.html,tv
+23,https://phoenix.craigslist.org/evl/gms/d/chandler-good-stuff/7440872039.html,table
+24,https://phoenix.craigslist.org/evl/gms/d/phoenix-garage-sale-downsizing-with/7440871802.html,table
+25,https://phoenix.craigslist.org/nph/gms/d/glendale-multi-family-garage-and-estate/7436768578.html,wrench
+26,https://phoenix.craigslist.org/nph/gms/d/phoenix-carport-sale/7432139100.html,table
+27,https://phoenix.craigslist.org/wvl/gms/d/goodyear-yard-sale-everything-is-half/7439570206.html,cabinet
+28,https://phoenix.craigslist.org/nph/gms/d/glendale-huge-multi-family-garage-and/7439646466.html,wrench
+29,https://phoenix.craigslist.org/evl/gms/d/fountain-hills-moving-sale-saturday-feb/7439981781.html,table
+30,https://phoenix.craigslist.org/nph/gms/d/phoenix-amazing-estate-sale-day-only/7440292197.html,table
+31,https://phoenix.craigslist.org/cph/gms/d/phoenix-huge-garage-sale/7440598926.html,tv
+32,https://phoenix.craigslist.org/nph/gms/d/phoenix-mega-furniture-moving-sale-all/7440039032.html,tv table
+33,https://phoenix.craigslist.org/nph/gms/d/glendale-estate-salegarage-saleyard/7441028255.html,cabinet tv table
+34,https://phoenix.craigslist.org/nph/gms/d/phoenix-spring-cleaning-garage-sale-feb/7439652051.html,table
+35,https://tucson.craigslist.org/gms/d/tucson-thrift-store-going-out-of/7432738934.html,table
+36,https://tucson.craigslist.org/gms/d/sahuarita-estate-sale/7426806783.html,table
+37,https://tucson.craigslist.org/gms/d/tucson-over-the-top-safe-shift-estate/7440614300.html,table
+38,https://tucson.craigslist.org/gms/d/catalina-estate-sale-in-saddlebrooke/7441076916.html,cabinet table
+39,https://flagstaff.craigslist.org/gms/d/sedona-great-moving-sale-continues/7437840500.html,cabinet table
+40,https://yuma.craigslist.org/gms/d/yuma-office-moving-sale/7439772614.html,cabinet tv table
