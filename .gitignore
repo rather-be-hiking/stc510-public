@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 Module 4/cdconfig.py
+Module 4/config_essentials.py
