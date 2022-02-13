@@ -1,0 +1,1 @@
+Unsuccessful Naive Bayes analysis of $600 +/- value question relationship with question content (accuracy:0.5972009662013903)

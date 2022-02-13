@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 Module 4/cdconfig.py
 Module 4/config_essentials.py
+Module 5/jeopardy.json
+Module 5/blogtext.csv
+*.xml
