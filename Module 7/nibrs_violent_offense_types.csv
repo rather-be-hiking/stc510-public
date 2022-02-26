@@ -1,0 +1,13 @@
+offense_type_id,offense_code,offense_name,crime_against,ct_flag,hc_flag,hc_code,offense_category_name
+1,09C,Justifiable Homicide,Not a Crime,N,N,,Homicide Offenses
+5,290,Destruction/Damage/Vandalism of Property,Property,N,Y,11,Destruction/Damage/Vandalism of Property
+20,200,Arson,Property,N,Y,8,Arson
+27,13A,Aggravated Assault,Person,N,Y,4,Assault Offenses
+29,100,Kidnapping/Abduction,Person,N,Y,,Kidnapping/Abduction
+32,09A,Murder and Nonnegligent Manslaughter,Person,N,Y,1,Homicide Offenses
+38,09B,Negligent Manslaughter,Person,N,Y,,Homicide Offenses
+39,520,Weapon Law Violations,Society,N,Y,,Weapon Law Violations
+44,13C,Intimidation,Person,N,Y,10,Assault Offenses
+51,13B,Simple Assault,Person,N,Y,9,Assault Offenses
+53,90C,Disorderly Conduct,Society,N,N,,
+62,720,Animal Cruelty,Society,N,N,,Animal Cruelty

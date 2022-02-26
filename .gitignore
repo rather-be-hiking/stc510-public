@@ -132,3 +132,23 @@ Module 4/config_essentials.py
 Module 5/jeopardy.json
 Module 5/blogtext.csv
 *.xml
+Module 7/data/Phoenix Airport Data 2-24-2004 to 2-22-2013.csv
+Module 7/data/Phoenix Airport Data 2-22-2013 to 2-22-2022.csv
+Module 7/data/AZ-2020.zip
+Module 7/data/AZ-2019.zip
+Module 7/data/AZ-2018.zip
+Module 7/data/AZ-2017.zip
+Module 7/data/AZ-2016.zip
+Module 7/data/AZ-2015.zip
+Module 7/data/AZ-2014.zip
+Module 7/data/AZ-2013.zip
+Module 7/data/AZ-2012.zip
+Module 7/data/AZ-2011.zip
+Module 7/data/AZ-2010.zip
+Module 7/data/AZ-2009.zip
+Module 7/data/AZ-2008.zip
+Module 7/data/AZ-2007.zip
+Module 7/data/AZ-2006.zip
+Module 7/data/AZ-2005.zip
+Module 7/data/AZ-2004.zip
+Module 7/config.py
